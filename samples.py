@@ -152,6 +152,7 @@ def convertToInteger(data):
   """
   Helper function for file reading.
   """
+  # if data is not empty
   if type(data) != type([]):
     return IntegerConversionFunction(data)
   else:

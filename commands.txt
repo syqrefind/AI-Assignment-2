@@ -1,7 +1,7 @@
 python dataClassifier.py
 (this runs the MostFrequent classifier on default numbers of training and test set)
 
-python dataClassifier.py -h
+python py -h dataClassifier.
 (help with commands)
 
 python dataClassifier.py -c perceptron -t 5000 -s 1000
